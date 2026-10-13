@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  ProfilesManager
+
+  Created by Jakey on 2017/2/8.
+  Copyright © 2017年 Jakey. All rights reserved.
+*/
+
+"Move to trash" = "Move to trash";
+"Delete" = "Delete";
+"Show in finder"  = "Show in finder";
+"Copy Profile path"  = "Copy Profile path";
+
+"Refresh table" = "Refresh";
+"Import profile"  = "Import Profile";
+"Export Certificate File"   = "Export Certificate File";
+"Copy Certificate Sha1"   = "Copy Certificate Sha1";
+"Copy Certificate Sha256"   = "Copy Certificate Sha256";
+
+"Expired"   = "Expired";
+"Valid"   = "Valid";
+"Ok"   = "Ok";
+"Cancle"   = "Cancle";
+"Confirm Delete Opration"   = "Confirm Delete Opration";
+"Delete this profie item permanently,can't rollback!"   = "Delete this profie item permanently,can't rollback!";
+"Warning" = "Warning";
+"Are you sure delete selected items from disk? After delete operation can't rollback!" = "Are you sure delete selceted items from disk? After delete operation can't rollback!";
+"Are you sure move selected items to trash?" = "Are you sure move selected items to trash?";
+"The profile installed by double click fileaname format is 'uuid+ext',it‘s very hard identify.\nare you sure rename profile filename? this will take 5 seconds！\nthe new filename is: " = "The profile installed by double click fileaname format is 'uuid+ext',it‘s very hard identify.\nare you sure rename profile filename? this will take 5 seconds！\nthe new filename is: ";
+"The filename no need beautify" = "the filename no need beautify";
+"Export" = "Export";
+"Beautify Filename" = "Beautify Filename";
+"Provision QuickLook Plug-in is already Installed" = "Provision QuickLook Plug-in is already Installed";
+"What opration do you want?" = "What opration do you want?";
+"Back"  = "Back";
+"Uninstall" = "Uninstall";
+"Uninstall Success" = "Uninstall Success";
+"Uninstall Failure" = "Uninstall Failure";
+"the plug-in can view the .ipa/.xcarchive/.appex/.mobileprovision/.provisionprofile files directly use the the blank space key." = "the plug-in can view the .ipa/.xcarchive/.appex/.mobileprovision/.provisionprofile files directly use the the blank space key.";
+"the plug-in sourcecode can view at" = "the plug-in sourcecode can view at";
+"Install Provision QuickLook Plug-in" = "Install Provision QuickLook Plug-in";
+"Install" = "Install";
+"Install Success" = "Install Success";
+"Install Failure" = "Install Failure";
+"macOS 15 and later no longer support .qlgenerator QuickLook plug-ins, so the bundled plug-in can't be used on this Mac." = "macOS 15 and later no longer support .qlgenerator QuickLook plug-ins, so the bundled plug-in can't be used on this Mac.";
+"Open ProvisionQL Homepage" = "Open ProvisionQL Homepage";
+"Manual" = "Manual";
+"Ready" = "Ready";
+"Certificate Expired" = "Certificate Expired";
+"No Private Key" = "No Private Key";
+"No Certificate" = "No Certificate";
+"Expiring Soon" = "Expiring Soon";
+"Outdated" = "Outdated";
+"All" = "All";

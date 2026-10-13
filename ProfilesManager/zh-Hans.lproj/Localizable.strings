@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  ProfilesManager
+
+  Created by Jakey on 2017/2/8.
+  Copyright © 2017年 Jakey. All rights reserved.
+*/
+
+"Move to Trash" = "移动到废纸篓";
+"Delete" = "完全删除";
+"Show in Finder"  = "在访达中显示";
+"Copy Profile path"  = "复制Profile路径";
+"Refresh Table" = "刷新列表";
+"Import Profile" = "导入Profile";
+"Export Certificate File"   = "导出证书文件";
+"Copy Certificate SHA1"   = "复制证书SHA-1";
+"Copy Certificate SHA256"   = "复制证书SHA-256";
+
+"Expired"   = "过期";
+"Valid"   = "有效";
+"Ok"   = "确定";
+"Cancle"   = "取消";
+"Confirm Delete Opration"   = "确认删除操作";
+"Delete this profie item permanently,can't rollback!"   = "完全删除这个profie文件,不可回滚!";
+"Warning" = "警告";
+"Are you sure delete selected items from disk? After delete operation can't rollback!" = "确定将选中的所有文件从磁盘删除? 删除之后不可回滚!";
+"Are you sure move selected items to trash?" = "确定将选中的所有文件移动到废纸篓么?";
+"The profile installed by double click fileaname format is 'uuid+ext',it‘s very hard identify.\nare you sure rename profile filename? this will take 5 seconds！\nthe new filename is: " = "通过双击安装的Profie文件名格式为'uuid+ext'，很难辨别。\n确定重命名配置文件么? 这将需要5秒！\n新文件名为：";
+"The filename no need beautify" = "文件名不需要美化";
+"Export" = "导出";
+"Beautify Filename" = "美化文件名";
+"Provision QuickLook Plug-in is already Installed" = "描述文件快速查看插件已经安装";
+"What opration do you want?" = "选择你想继续操作?";
+"Back"  = "返回";
+"Uninstall" = "卸载";
+"Uninstall Success" = "卸载成功";
+"Uninstall Failure" = "卸载失败";
+"the plug-in can view the .ipa/.xcarchive/.appex/.mobileprovision/.provisionprofile files directly use the the blank space key." = "插件可以直接预览后缀为.ipa/.xcarchive/.appex/.mobileprovision/.provisionprofile的文件,在文件上空格即可.";
+"the plug-in sourcecode can view at" = "插件源代码可以在以下地址查看";
+"Install Provision QuickLook Plug-in" = "安装描述文件快速查看插件";
+"Install" = "安装";
+"Install Success" = "安装成功";
+"Install Failure" = "安装失败";
+
+"macOS 15 and later no longer support .qlgenerator QuickLook plug-ins, so the bundled plug-in can't be used on this Mac." = "macOS 15 及以上系统已不再支持 .qlgenerator 快速查看插件，内置插件在这台 Mac 上无法使用。";
+"Open ProvisionQL Homepage" = "打开 ProvisionQL 主页";
+"Manual" = "手动";
+"Ready" = "可签名";
+"Certificate Expired" = "证书已过期";
+"No Private Key" = "缺少私钥";
+"No Certificate" = "无证书";
+"Expiring Soon" = "即将过期";
+"Outdated" = "旧版本";
+"All" = "全部";
